@@ -1,0 +1,14 @@
+body {
+  background: #eeedec;
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+  background-image: url('https://source.unsplash.com/1600x900/?landscape');
+}
+
+.container {
+  max-width: 400px;
+}
+
+.icon img {
+  background: #b7d1eb;
+}
